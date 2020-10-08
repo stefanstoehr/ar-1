@@ -4,7 +4,7 @@
 
 ar.js and a-frame project with two different custom markers for two different 3d-models.
 
-This repository contains two working examples for augmented reality with ar.js and a-frame. visit https://stewahn.github.io/ndkk2020/ to start the experiment. In the context of city- and spatial planning this experiment upgrades a 2d-construction plan with a 3d-model that appears on your mobile-device.
+This repository contains two working examples for augmented reality with ar.js and a-frame. visit https://stewahn.github.io/ndkk2020/ to start the experiment. In the context of city- and spatial-planning this experiment upgrades a 2d-construction plan with a 3d-model which appears on your mobile-device in realtime, realscale and realperspective.
 
 This project based on the following links (THANK YOU AUTHORS):
 
