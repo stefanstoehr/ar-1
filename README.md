@@ -1,4 +1,4 @@
-# -- THE LIVING PLAN - SEE WITH SUPERMANS EYES -- :)
+# THE LIVING PLAN - SEE WITH SUPERMANS EYES
 
 # Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 am) 
 
