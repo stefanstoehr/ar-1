@@ -16,3 +16,5 @@ https://medium.com/@aschmelyun/so-you-want-to-get-started-with-ar-js-41dd4fba5f8
 In the repository are pictures which shows the results. You can clone this repository and use it for your own purpose. 
 
 This ar-experiment was first used in 2019 at "night of creative minds" in Cottbus. It should shows modern tools in the field of city- and spatial- development.  
+
+stewahn
