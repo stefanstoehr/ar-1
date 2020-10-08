@@ -17,4 +17,4 @@ In the repository are pictures which shows the results. You can clone this repos
 
 This ar-experiment was first used in 2019 at "night of creative minds" in Cottbus. It should shows modern tools in the field of city- and spatial- development.  
 
-stewahn
+:) stewahn
