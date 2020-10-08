@@ -1,6 +1,6 @@
 # THE LIVING PLAN - SEE WITH SUPERMANS EYES
 
-# Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 am) 
+# Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 pm) 
 
 ar.js and a-frame project with two different custom markers for two different 3d-models.
 
