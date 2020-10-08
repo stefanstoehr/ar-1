@@ -13,4 +13,6 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc
 https://medium.com/@aschmelyun/so-you-want-to-get-started-with-ar-js-41dd4fba5f81
 
-This AR-Experiment was first used in 2019 at "Night of creative minds" in Cottbus. It should shows modern tools in the field of city- and spatial- development.  
+In the repository are pictures which shows the results. You can clone this repository and use it for your own purpose. 
+
+This ar-experiment was first used in 2019 at "night of creative minds" in Cottbus. It should shows modern tools in the field of city- and spatial- development.  
