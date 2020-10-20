@@ -17,14 +17,14 @@
         <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false;'>
             
             <a-assets>
-                <a-asset-item id="area1" src="https://raw.githubusercontent.com/stewahn/ndkk2020/master/Area_1.gltf"></a-asset-item>
+                <a-asset-item id="area1" src="https://raw.githubusercontent.com/stewahn/ndkk2020/master/area1.gltf"></a-asset-item>
                 <a-asset-item id="ship" src="https://raw.githubusercontent.com/stewahn/ndkk2020/master/ship.gltf"></a-asset-item>
             </a-assets>
 
             <a-marker type="pattern" preset="custom" url="https://raw.githubusercontent.com/stewahn/ndkk2020/master/pattern-eins.patt">
 		<a-entity
                     gltf-model="#area1"
-                    scale="0,01 0,01 0,01" rotation="0 0 0">
+                    scale="0,1 0,1 0,1" rotation="0 0 0">
                 </a-entity>
 		    </a-marker>
 
