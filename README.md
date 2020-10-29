@@ -1,6 +1,6 @@
-# THE LIVING PLAN
+# THE PLAN 1
 
-# Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 pm) -- CANCELD (CORONA)
+# Part I of Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 pm) -- CANCELD (CORONA)
 
 ar.js and a-frame project with one custom marker for a 3D upgrade of a 2D plan.
 
