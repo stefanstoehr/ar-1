@@ -1,6 +1,11 @@
 # Part I of Event-Project: "Night of the creative minds 2020 in Cottbus/Germany" (Live Demo 24.10.2020 Stadthalle Cottbus 6:00 - 12:00 pm) -- CANCELD (CORONA)
 
-ar.js and a-frame project with one custom marker for a 3D upgrade of a 2D plan.
+## ar.js and a-frame project with one custom marker for a 3D upgrade of a 2D plan.
+
+### Screenshots:
+![live-demo](https://raw.githubusercontent.com/stefanstoehr/ar-1/master/Screenshot%20live.png)
+
+![live-setting](https://raw.githubusercontent.com/stefanstoehr/ar-1/master/Setting%20Picture.jpg)
 
 This repository contains one working example for augmented reality with ar.js and a-frame. visit https://stefanstoehr.github.io/ar-1/ to start the experiment. In the context of city- and spatial-planning this experiment upgrades a 2d-construction plan with a 3d-model which appears on your mobile-device in realtime, "realscale" and "realperspective".
 
