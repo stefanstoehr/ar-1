@@ -3,6 +3,8 @@
 ## ar.js and a-frame project with one custom marker for a 3D upgrade of a 2D plan.
 
 ### Screenshots:
+![concept](https://raw.githubusercontent.com/stefanstoehr/ar-1/master/VisualizedConcept.jpg)
+
 ![live-demo](https://raw.githubusercontent.com/stefanstoehr/ar-1/master/Screenshot%20live.png)
 
 ![live-setting](https://raw.githubusercontent.com/stefanstoehr/ar-1/master/Setting%20Picture.jpg)
